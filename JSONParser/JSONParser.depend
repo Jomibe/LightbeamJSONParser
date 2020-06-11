@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591889648 source:/media/jberger/expansion/Nextcloud/dokumente/studium/GdI2/JSONParser/main.cpp
+	<iostream>
+	<fstream>
+
